@@ -1,0 +1,36 @@
+/*style sheets*/
+#list{
+    color: blue;
+}
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  li {
+    float: left;
+  }
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+#links{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sides{
+    text-align: center;
+}
+#sides h1{
+    text-decoration: underline;
+}
+
+#img{
+    width:40px;
+    height: 40px;
+}
